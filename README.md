@@ -2,13 +2,13 @@
 - 112  Radares de tramo (UT03)
 - 116  ¡Hola mundo!
 - 119  Escudos del ejército romano
-- 157  ¿Cuantos días faltan? (UT4) *Pte Publicar
+- 157  ¿Cuantos días faltan? (UT04)
 - 362  El día de Navidad (Apuntes UT03).
 - 364  Espionaje en Navidad
 - 427  Yo soy tu ...
 - 428  Tendencia al lado oscuro
 - 429  Organizando los hangares
-- 467  Polisílaba es polisílaba (UT04) *Pte Publicar
+- 467  Polisílaba es polisílaba (UT04)
 ## Concurso ProgramaMe Navidad 2018
 - 474  Tu amigable vecino
 - 475  Cameos de Stan Lee

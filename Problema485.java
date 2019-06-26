@@ -1,4 +1,4 @@
-package terminados_2018;
+
 
 import java.util.Scanner;
 

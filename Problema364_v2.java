@@ -1,4 +1,4 @@
-package terminados_2018;
+
 
 /**
  * Ejercicio 364 - Espionaje en Navidad

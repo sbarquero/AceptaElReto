@@ -1,4 +1,4 @@
-package terminados_2018;
+
 
 /**
  * Problema 477 - La captura del doctor muerte

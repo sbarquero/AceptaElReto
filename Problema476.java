@@ -1,4 +1,4 @@
-package terminados_2018;
+
 
 /**
  * Problema 476 - Lucha de egos

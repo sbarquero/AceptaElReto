@@ -1,4 +1,4 @@
-package terminados_2018;
+
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 
 /**
  * ProgramaMe Calentamiento Pre-Navideño Problema 
- * 474 - Tu amigable vecino
+ * Problema474 - Tu amigable vecino
  *
  * https://www.aceptaelreto.com/problem/statement.php?id=474
  *
